@@ -1,24 +1,16 @@
-# README
+## Welcome To Grammable
+A simple app clone of instagram, allowing people to post pictures
+![image](https://user-images.githubusercontent.com/54120060/83338037-4383fa80-a28e-11ea-9914-0b222e0ef95e.png)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Sign In/Sign Up
+sign up to be able to post pictures
+![image](https://user-images.githubusercontent.com/54120060/83338047-61e9f600-a28e-11ea-8a37-8ed648b2f272.png)
 
-Things you may want to cover:
+## Enjoy
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Tools & Resources
+- [Ruby On Rails](https://rubyonrails.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [bootstrap](https://getbootstrap.com/)
+- [Devise](https://github.com/heartcombo/devise)
+- [Rspec] (https://github.com/rspec/rspec-rails/)
