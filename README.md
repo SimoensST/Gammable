@@ -13,4 +13,4 @@ sign up to be able to post pictures
 - [PostgreSQL](https://www.postgresql.org/)
 - [bootstrap](https://getbootstrap.com/)
 - [Devise](https://github.com/heartcombo/devise)
-- [Rspec] (https://github.com/rspec/rspec-rails/)
+- [Rspec](https://github.com/rspec/rspec-rails/)
